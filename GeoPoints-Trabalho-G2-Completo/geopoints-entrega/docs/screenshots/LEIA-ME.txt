@@ -1,0 +1,2 @@
+Adicione aqui as capturas reais solicitadas no enunciado:
+listagem.png, filtro.png, cadastro.png, detalhe.png e edicao.png.
